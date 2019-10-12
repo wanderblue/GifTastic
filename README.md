@@ -9,7 +9,9 @@ https://wanderblue.github.io/GifTastic/
 Built With
 
 HTML5
+
 CSS3
+
 JavaScript
-jQuery - JavaScript Library
+
 giphy API
